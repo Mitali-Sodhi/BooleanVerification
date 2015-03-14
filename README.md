@@ -1,2 +1,2 @@
 # BooleanVerification
-Boolean Verification done on Satisfiability problem
+Given a Boolean formula, the satisfiability problem is to find out whether there is a truth assignment to its variables such that the formula evaluates to true. There is one particular property of uniform Random-3-SAT is the occurrence of a phase transition phenomenon , where there is a rapid change in solubility which can be observed when systematically  increasing (or decreasing ) the ratio of the number of clauses to variables. 
